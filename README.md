@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nileshkumar Lavand</h1>
 <h3 align="center">Passionate data science enthusiast with a strong curiosity for exploring and analyzing complex datasets. Eager to leverage data-driven decisions</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/Nileshkl/Nileshkl/blob/c72a6acb827598ccef04b01c4e68509665734cb2/ezgif.com-resize.gif">
+<img align="right" alt="coding" width="250" src="https://github.com/Nileshkl/Nileshkl/blob/c72a6acb827598ccef04b01c4e68509665734cb2/ezgif.com-resize.gif">
 
 - 🎬 Completed Unsupervised ML Project [Netflix Movies and TV Shows Clustering](https://github.com/Nileshkl/Unsupervised-ML--Netflix-Movies-and-TV-Shows-Clustering)
 
