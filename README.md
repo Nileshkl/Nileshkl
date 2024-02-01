@@ -6,7 +6,7 @@
 
 - 🎬 Completed Unsupervised ML Project [Netflix Movies and TV Shows Clustering](https://github.com/Nileshkl/Unsupervised-ML--Netflix-Movies-and-TV-Shows-Clustering)
 
-- 📱 Completed EDA Project  [Google Play Store App Review Analysis](https://github.com/Nileshkl/Play-Store-App-Review-Analysis-EDA)
+- 📱 Completed EDA & Dashboard (Power BI) Project  [Google Play Store App Review Analysis](https://github.com/Nileshkl/Play-Store-App-Review-Analysis-EDA)
 
 - 📈 Completed Regression ML Project [Yes Bank Stock Price Prediction](https://github.com/Nileshkl/Regression-ML-Yes-Bank-Stock-Price-Prediction)
 
